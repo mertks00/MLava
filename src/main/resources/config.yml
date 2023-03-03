@@ -1,0 +1,10 @@
+# Alan Sınırı.
+border-size: 50
+# Oyunun Oynanacağı dünya!
+world-name: 'world'
+# Başlama Seviyesi
+start-height: 64
+# Lavın Yükselmeye Başlama Süresi 1 = 1 dakika
+start-lava: 25
+# Lavın Başladıktan sonra tekrarlanma süresi 1 = 1 saniye
+again-lava: 5

@@ -1,0 +1,11 @@
+name: MLava
+version: '${project.version}'
+main: me.oyuncozucu.mlava.MLava
+api-version: 1.16
+author: mertks00
+commands:
+  lava:
+    permission: mlava.admin
+  reload:
+    permission: mlava.admin
+
